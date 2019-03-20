@@ -1,0 +1,7 @@
+{
+  "name": "trade-union",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
