@@ -1,0 +1,1 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore myapp.keystore -signedjar 商盟订货.apk /Users/js/Desktop/workspace/未命名文件夹/gtrade/trade-union/platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk myapp.keystore
